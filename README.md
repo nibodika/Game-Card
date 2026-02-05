@@ -7,11 +7,6 @@ A simple BlackJack card game built using HTML, CSS, and JavaScript.
 - Blackjack detection
 - Random card generator
 
-## Screenshot
-<p align="center">
-  <img src="screenshots/image.png" width="350" height="400">
-</p>
-
 ## Technologies Used
 - HTML
 - CSS
@@ -19,3 +14,8 @@ A simple BlackJack card game built using HTML, CSS, and JavaScript.
 
 ## Author
 Nibodika Chaudhary
+
+## Screenshot
+<p align="center">
+  <img src="screenshots/image.png" width="350" height="400">
+</p>

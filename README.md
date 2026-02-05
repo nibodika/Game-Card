@@ -1,4 +1,21 @@
+# BlackJack Card Game
+A simple BlackJack card game built using HTML, CSS, and JavaScript.
 
+## Features
+- Start Game
+- Draw New Card
+- Blackjack detection
+- Random card generator
+
+## Screenshot
 <p align="center">
- <img width="350" height="400" alt="Card Game" src="https://github.com/user-attachments/assets/42d2887b-db88-4ca5-b46b-debadaf07c38"/>
+  <img src="screenshots/blackjack.png" width="350" height="400">
 </p>
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Nibodika Chaudhary

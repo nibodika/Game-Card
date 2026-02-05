@@ -9,7 +9,7 @@ A simple BlackJack card game built using HTML, CSS, and JavaScript.
 
 ## Screenshot
 <p align="center">
-  <img src="screenshots/blackjack.png" width="350" height="400">
+  <img src="screenshots/image.png" width="350" height="400">
 </p>
 
 ## Technologies Used
